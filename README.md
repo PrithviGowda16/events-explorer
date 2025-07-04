@@ -70,7 +70,7 @@ A fully responsive **Events Explorer** web app built using **Next.js**, **TypeSc
 
 ##  Vercel Live Demo Link
 
-    [Live Demo Link](https://events-explorer-two.vercel.app/)
+    [Live Demo Link](https://events-explorer-prithvigowda16s-projects.vercel.app/)
 
 
 ##  Notes on Improvements (if more time were available)
