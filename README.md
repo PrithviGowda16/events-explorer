@@ -58,3 +58,11 @@ A fully responsive **Events Explorer** web app built using **Next.js**, **TypeSc
 
     [Live Demo Link](https://events-explorer-two.vercel.app/)
 
+
+##  Notes on Improvements (if more time were available)
+
+-  List of 6–10 mock events from local JSON file.
+-  Add filters by date and category, not just location.
+-  Add event cover images to enhance UI and storytelling.
+-  Add buttons to share events via WhatsApp, Twitter, or Facebook.
+-  Let users save events for later viewing like Bookmark/Favorite.
