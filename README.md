@@ -1,22 +1,22 @@
-# 🎉 Events Explorer - Next.js Developer Assessment
+#  Events Explorer - Next.js Developer Assessment
 
 A fully responsive **Events Explorer** web app built using **Next.js**, **TypeScript**, and **Tailwind CSS**. This app lists mock events, allows filtering by location, and supports dynamic routing to detailed event pages — all optimized for SEO and accessibility.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🗂 List of 6–10 mock events from local JSON file
-- 📍 Filter events by location (client-side only)
-- 🔁 Dynamic routing with static generation using `[id].tsx`
-- 🛠️ Uses `getStaticPaths` and `getStaticProps`
-- 📱 Fully responsive layout with Tailwind CSS
-- 🔍 SEO optimized using `next/head`
-- ♿ Accessible with semantic HTML elements and keyboard navigation
+-  List of 6–10 mock events from local JSON file
+-  Filter events by location (client-side only)
+-  Dynamic routing with static generation using `[id].tsx`
+-  Uses `getStaticPaths` and `getStaticProps`
+-  Fully responsive layout with Tailwind CSS
+-  SEO optimized using `next/head`
+-  Accessible with semantic HTML elements and keyboard navigation
 
 ---
 
-## 🧪 Tech Stack
+##  Tech Stack
 
 - [Next.js v15 (Pages Router)](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -25,7 +25,7 @@ A fully responsive **Events Explorer** web app built using **Next.js**, **TypeSc
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
     events-explorer/
     ├── components/
@@ -47,7 +47,7 @@ A fully responsive **Events Explorer** web app built using **Next.js**, **TypeSc
     ├── tailwind.config.js
     └── tsconfig.json
 
-## 📦 Installation & Running the App Locally
+##  Installation & Running the App Locally
 
 1. **Clone the Repository**
    ```bash
