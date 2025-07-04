@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "title": "Bangalore Tech Summit",
+    "date": "12 September 2025",
+    "location": "Bangalore",
+    "description": "India's biggest technology and innovation event attracting startups and IT leaders.",
+    "image": "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "The Bangalore Tech Summit is a flagship event celebrating India's role in the global tech ecosystem.\nIt features keynote speeches from global tech leaders and CEOs.\nThere are dedicated zones for startups to exhibit their innovations.\nWorkshops and panel discussions cover AI, cybersecurity, and digital transformation.\nInvestors and VCs participate in exclusive networking sessions.\nTech enthusiasts, developers, and students gather to exchange ideas."
+  },
+  {
+    "id": "2",
+    "title": "Namma Music Fest",
+    "date": "05 October 2025",
+    "location": "Bangalore",
+    "description": "A vibrant festival celebrating music and local artists in the heart of Bangalore.",
+    "image": "https://images.pexels.com/photos/167636/pexels-photo-167636.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "Namma Music Fest brings together genres from classical to contemporary.\nIt features performances by emerging local bands and renowned national artists.\nLive jam sessions are open to the audience.\nThe venue offers an open-air stage with immersive sound and light setups.\nFood stalls and craft zones enhance the festival feel.\nA must-attend for every music enthusiast in the city."
+  },
+  {
+    "id": "3",
+    "title": "Bangalore Comic Con",
+    "date": "22 November 2025",
+    "location": "Bangalore",
+    "description": "Celebrate pop culture with cosplay, comics, and panels with creators.",
+    "image": " https://images.pexels.com/photos/29901372/pexels-photo-29901372.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "Bangalore Comic Con is a celebration of fandom and imagination.\nIt includes comic book releases, cosplay parades, and Q&A panels with creators.\nAttendees can participate in fan contests and trivia battles.\nExclusive merchandise and collectibles are available on-site.\nGaming zones with VR demos keep the action going.\nFun for families, superfans, and creatives alike."
+  },
+  {
+    "id": "4",
+    "title": "Chennai Literature Festival",
+    "date": "14 August 2025",
+    "location": "Chennai",
+    "description": "A gathering of authors, poets, and readers to celebrate literature in Tamil and English.",
+    "image": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "The Chennai Literature Festival brings voices from across India to discuss literature and life.\nSessions include poetry readings, author meetups, and translation panels.\nBook signings and new launches are held daily.\nRegional publishers exhibit rare and new titles.\nWorkshops support aspiring writers and storytellers.\nA calm, creative space for lovers of language and story."
+  },
+  {
+    "id": "5",
+    "title": "Marina Food Carnival",
+    "date": "01 September 2025",
+    "location": "Chennai",
+    "description": "Delight your taste buds with local and international cuisine by the beach.",
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "Set along Marina Beach, this carnival is a foodie's paradise.\nFrom spicy street food to global gourmet, every flavor is represented.\nLive cooking demos feature celebrity chefs.\nInteractive tasting zones and food challenges entertain all ages.\nA kids' area and musical acts complete the ambiance.\nPerfect for families, couples, and solo food explorers."
+  },
+  {
+    "id": "6",
+    "title": "Hyderabad Startup Expo",
+    "date": "09 October 2025",
+    "location": "Hyderabad",
+    "description": "Showcasing innovative startups and networking with investors and mentors.",
+    "image": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "Hyderabad Startup Expo connects ideas with capital.\nStartups pitch in front of angel investors and VCs.\nThe event includes workshops on funding, branding, and scaling.\nA student innovation zone highlights young entrepreneurs.\nAccelerators and incubators offer direct entry to top teams.\nAn essential hub for India's growing startup scene."
+  },
+  {
+    "id": "7",
+    "title": "Pearl Cultural Night",
+    "date": "18 October 2025",
+    "location": "Hyderabad",
+    "description": "A celebration of Telugu heritage through dance, drama, and music.",
+    "image": "https://images.pexels.com/photos/28808373/pexels-photo-28808373.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "Pearl Cultural Night celebrates Andhra and Telangana's rich artistic heritage.\nThe evening showcases classical dance, folk music, and mythological plays.\nArtisans display crafts like Kalamkari and Bidriware.\nTraditional cuisine is served in open-air food courts.\nPerformances take place under decorative lights and cultural decor.\nA night of pride, nostalgia, and celebration."
+  },
+  {
+    "id": "8",
+    "title": "Mumbai Film Festival",
+    "date": "10 November 2025",
+    "location": "Mumbai",
+    "description": "Premieres of Indian and international films with director Q&As.",
+    "image": "https://images.pexels.com/photos/11026542/pexels-photo-11026542.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "This prestigious event screens films from more than 40 countries.\nRed carpet events and exclusive previews feature major Bollywood stars.\nIndependent films and documentaries gain spotlight.\nPanels include actors, screenwriters, and directors.\nSpecial screenings are held at sea-facing outdoor venues.\nPerfect for movie buffs, critics, and film students."
+  },
+  {
+    "id": "9",
+    "title": "Mumbai Marathon",
+    "date": "15 December 2025",
+    "location": "Mumbai",
+    "description": "India’s largest marathon event featuring global participants.",
+    "image": "https://images.pexels.com/photos/2654902/pexels-photo-2654902.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "Mumbai Marathon unites runners across distances and abilities.\nEvents include full marathon, half marathon, 10K, and charity runs.\nThe route spans iconic sites like Marine Drive and the Gateway.\nMedical aid stations and hydration points ensure safety.\nEntertainment zones energize runners throughout.\nA city-wide celebration of endurance and community."
+  },
+  {
+    "id": "10",
+    "title": "Delhi Auto Expo",
+    "date": "10 January 2026",
+    "location": "Delhi",
+    "description": "A premier event showcasing the latest in automobiles and tech.",
+    "image": "https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "The Delhi Auto Expo unveils cutting-edge vehicles and tech.\nElectric vehicles and futuristic models take center stage.\nExhibitors include top automotive brands from India and abroad.\nTest drive zones let visitors experience innovation hands-on.\nTech talks cover mobility, sustainability, and AI.\nAuto fans and families enjoy a thrilling experience."
+  },
+  {
+    "id": "11",
+    "title": "Delhi International Book Fair",
+    "date": "02 December 2025",
+    "location": "Delhi",
+    "description": "Explore a massive collection of books and engage with authors.",
+    "image": "https://images.pexels.com/photos/33283/stack-of-books-vintage-books-book-books.jpg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "This book fair hosts over 500 publishers and thousands of titles.\nEvents include poetry slams, storytelling, and literary panels.\nWorkshops support aspiring authors and translators.\nA kids' pavilion engages young readers with interactive storytelling.\nAcademic and competitive exam books are available at discounts.\nIdeal for educators, students, and avid readers."
+  },
+  {
+    "id": "12",
+    "title": "Pune Jazz Nights",
+    "date": "28 October 2025",
+    "location": "Pune",
+    "description": "Live jazz music performances from local and international artists.",
+    "image": "https://images.pexels.com/photos/164938/pexels-photo-164938.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "Pune Jazz Nights is a blend of classic and experimental jazz.\nThe event features bands from India, France, and the U.S.\nAn intimate, lounge-style setting enhances the vibe.\nFood, wine, and acoustic ambiance complete the night.\nDaytime masterclasses are led by world-class musicians.\nA smooth, unforgettable musical experience."
+  },
+  {
+    "id": "13",
+    "title": "Kolkata Durga Utsav",
+    "date": "12 October 2025",
+    "location": "Kolkata",
+    "description": "Experience the grandeur of Durga Puja across pandals with rituals and culture.",
+    "image": "https://images.pexels.com/photos/190589/pexels-photo-190589.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "Durga Utsav transforms Kolkata into a living celebration.\nPandals exhibit artistic creativity with unique themes.\nDevotional songs, rituals, and drumbeats fill the streets.\nCrowds line up to view grand idols and light shows.\nLocal foods and cultural stalls add flavor to the experience.\nA festival of devotion, tradition, and community pride."
+  },
+  {
+    "id": "14",
+    "title": "Jaipur Literature Summit",
+    "date": "21 January 2026",
+    "location": "Jaipur",
+    "description": "One of the world’s largest free literary festivals, featuring top global authors.",
+    "image": "https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "details": "The Jaipur Literature Summit blends scholarship and spectacle.\nAuthors, historians, and thinkers gather at Diggi Palace.\nSessions span literature, politics, climate, and culture.\nCultural shows, cafes, and bookstores create a lively atmosphere.\nYoung authors are spotlighted in debut forums.\nA haven for ideas, creativity, and global perspectives."
+  }
+]
