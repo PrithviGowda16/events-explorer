@@ -53,3 +53,8 @@ A fully responsive **Events Explorer** web app built using **Next.js**, **TypeSc
    ```bash
    git clone https://github.com/PrithviGowda16/events-explorer.git
    cd events-explorer
+
+##  Vercel Live Demo Link
+
+    [Live Demo Link](https://events-explorer-two.vercel.app/)
+
