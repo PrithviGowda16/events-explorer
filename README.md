@@ -75,7 +75,6 @@ A fully responsive **Events Explorer** web app built using **Next.js**, **TypeSc
 
 ##  Notes on Improvements (if more time were available)
 
--  List of 6–10 mock events from local JSON file.
 -  Add filters by date and category, not just location.
 -  Add event cover images to enhance UI and storytelling.
 -  Add buttons to share events via WhatsApp, Twitter, or Facebook.
