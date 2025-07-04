@@ -6,7 +6,7 @@ A fully responsive **Events Explorer** web app built using **Next.js**, **TypeSc
 
 ##  Features
 
--  List of 6–10 mock events from local JSON file
+-  List of mock events from local JSON file
 -  Filter events by location (client-side only)
 -  Dynamic routing with static generation using `[id].tsx`
 -  Uses `getStaticPaths` and `getStaticProps`
