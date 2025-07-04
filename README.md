@@ -27,25 +27,39 @@ A fully responsive **Events Explorer** web app built using **Next.js**, **TypeSc
 
 ##  Folder Structure
 
-    events-explorer/
-    ├── components/
-    │ └── EventCard.tsx
-    ├── data/
-    │ └── events.json
-    ├── pages/
-    │ ├── events/
-    │ │ └── [id].tsx
-    │ ├── _app.tsx
-    │ ├── _document.tsx
-    │ └── index.tsx
-    ├── public/
-    ├── styles/
-    ├── types/
-    │ └── index.ts
-    ├── README.md
-    ├── package.json
-    ├── tailwind.config.js
-    └── tsconfig.json
+events-explorer/
+├── components/           # Reusable UI components (e.g., EventCard, Layout)
+│   ├── EventCard.tsx
+│   └── Layout.tsx
+│
+├── data/                 # Local mock data
+│   └── events.json
+│
+├── pages/                # All application routes
+│   ├── api/              # API route (default placeholder)
+│   ├── events/           # Dynamic route for event details
+│   │   └── [id].tsx
+│   ├── _app.tsx          # Global app config
+│   ├── _document.tsx     # Custom HTML document
+│   └── index.tsx         # Home page (event list + filter)
+│
+├── public/               # Static assets (images, icons)
+│
+├── styles/               # Global styles
+│   └── globals.css
+│
+├── types/                # TypeScript type declarations
+│   └── index.ts
+│
+├── .gitignore
+├── README.md
+├── next.config.ts
+├── package.json
+├── package-lock.json
+├── postcss.config.mjs
+├── tailwind.config.js
+└── tsconfig.json
+
 
 ##  Installation & Running the App Locally
 
